@@ -1,4 +1,7 @@
-# SR-FLIPFLOP-USING-CASE
+### Name : HASMITHA V NANCY
+### Register No : 24004046
+# EXPERIMENT NO 6:  SR FLIP FLOP
+
 
 **AIM:**
 
@@ -34,15 +37,26 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+Implementing SERIAL-IN-SERIAL-OUT-SHIFTREGISTER functions in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results
+
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
+![program 6](https://github.com/user-attachments/assets/59d023a7-fff0-4044-b021-743e11fbda21)
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+
+![circuit 6](https://github.com/user-attachments/assets/e14e9615-91fe-4d72-ba19-0af104d295e4)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![WAVEFORM 6](https://github.com/user-attachments/assets/1ab5dc7e-ee09-4914-a9d1-fb833238ae0f)
+
+
+
 **RESULTS**
+
+Successfully implemented  SR flipflop using verilog and validating their functionality using their functional tables.
