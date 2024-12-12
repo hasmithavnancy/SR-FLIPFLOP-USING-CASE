@@ -51,7 +51,7 @@ Implementing SERIAL-IN-SERIAL-OUT-SHIFTREGISTER functions in Verilog HDL (Hardwa
 ![circuit 6](https://github.com/user-attachments/assets/e14e9615-91fe-4d72-ba19-0af104d295e4)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![WAVEFORM 6](https://github.com/user-attachments/assets/1ab5dc7e-ee09-4914-a9d1-fb833238ae0f)
 
